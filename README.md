@@ -1,5 +1,6 @@
 # OS-X-Dell-XPS420-Clover
-Files needed for installing Mac OSX on Dell XPS 420
+Files needed for installing Mac OSX on Dell XPS 420, which is a 10 years old tower box.
+I have replaced the GFX with a AMD Radeon™ HD 6450 to support OSX.
 
 ## Hardware Spec
 - BIOS: Dell XPS 420 System BIOS, A07
@@ -25,3 +26,7 @@ To enter the BIOS setup, press F2 while booting at the Dell loading screen.
 
 ### Prepare USB Stick
 To be continued.
+
+## Tested OS
+- Mavericks 10.9.x
+- Yosemite 10.10.x
